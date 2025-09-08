@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello, my name is Daniel
+Master in Business Administration (Universidade Potiguar, 2024), MBA in Project Management (Fundação Getúlio Vargas, 2012), Bachelor of Science in Civil Engineering (Universidade Federal da Paraíba, 2006), and currently pursuing a Bachelor of Science in Computer Science (Universidade Cruzeiro do Sul).
 
-<!--
-**mcloir/mcloir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  • 📊 Project Manager at Grupo Alba Construction Company.
 
-Here are some ideas to get you started:
+  • 🎸 I love playing guitar!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  • 📽 You can find me speaking about project management, business intelligence and coding on [Supernova²](https://www.youtube.com/channel/UC8HU3QHkXls_wFhoXm-UgUw).
+
+  • 🔍 Or you can look for my professional profile on [LinkedIn](www.linkedin.com/in/danielgomes3003)
+
+  • ⚡ Nowadays I am focused on:
+
+  <div display="inline">
+    <img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />            
+    <img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
+  </div>
