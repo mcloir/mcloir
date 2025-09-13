@@ -15,3 +15,5 @@ Master in Business Administration (Universidade Potiguar, 2024), MBA in Project 
     <img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />            
     <img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
   </div>
+
+![mcloir's Stats](https://github-readme-stats.vercel.app/api?username=mcloir&theme=dark&show_icons=true&hide_border=true&count_private=true)
