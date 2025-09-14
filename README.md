@@ -13,7 +13,10 @@ Master in Business Administration (Universidade Potiguar, 2024), MBA in Project 
   </div>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mcloir&theme=dark&show_icons=true&hide_border=true&count_private=true" width="31%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcloir&theme=dark&hide_border=true" width="33%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcloir&theme=dark&show_icons=true&hide_border=true&layout=compact" width="34%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mcloir&theme=dark&show_icons=true&hide_border=true&count_private=true" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcloir&theme=dark&hide_border=true" width="48%"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcloir&theme=dark&show_icons=true&hide_border=true&layout=compact" width="45%"/>
 </p>
