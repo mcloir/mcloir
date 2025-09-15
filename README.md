@@ -9,8 +9,7 @@ Master in Business Administration (Universidade Potiguar, 2024), MBA in Project 
 
   <div display="inline">
     <img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />            
-    <img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
-    <img width='60' height='60' src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg](http://www.w3.org/2000/svg)" />
+    <img width='80' height='80' src="https://raw.githubusercontent.com/mcloir/Font-Sizes-for-Latex/dc816c8f4357161a1fe6abf7849907630126cf47/latex-rea2.svg" />
   </div>
 
 <p align="left">
