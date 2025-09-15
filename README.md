@@ -10,6 +10,7 @@ Master in Business Administration (Universidade Potiguar, 2024), MBA in Project 
   <div display="inline">
     <img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />            
     <img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
+    <img width='60' height='60' src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg](http://www.w3.org/2000/svg)" />
   </div>
 
 <p align="left">
@@ -20,3 +21,5 @@ Master in Business Administration (Universidade Potiguar, 2024), MBA in Project 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcloir&theme=dark&show_icons=true&hide_border=true&layout=compact" width="45%"/>
 </p>
+
+<svg xmlns="http://www.w3.org/2000/svg" overflow="scroll" height="40.731" width="110">
