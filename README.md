@@ -4,7 +4,7 @@ Master in Business Administration (Universidade Potiguar, 2024), MBA in Project 
 - 📊 Project Manager at Grupo Alba Construction Company.
 - 🎸 I love playing guitar!
 - 📽 You can find me speaking about project management, business intelligence and coding on [Supernova²](https://www.youtube.com/channel/UC8HU3QHkXls_wFhoXm-UgUw).
-- 🔍 Or you can look for my professional profile on [LinkedIn](www.linkedin.com/in/danielgomes3003)
+- 🔍 Or you can look for my professional profile on [LinkedIn](https://www.linkedin.com/in/danielgomes3003/)
 - ⚡ Nowadays I am studying:
 
 <!-- https://devicon.dev/  -->
@@ -12,8 +12,8 @@ Master in Business Administration (Universidade Potiguar, 2024), MBA in Project 
   <div display="inline">
     <img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
     <img width="60" height="60" src="https://raw.githubusercontent.com/mcloir/Font-Sizes-for-Latex/842ed0e6578254cabfde686e51469bdf93abdf42/icons8-programa%C3%A7%C3%A3o-c.svg" alt="c-programming"/>
-    <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="c-programming"/>
-    <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/> 
+    <!--<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="c-programming"/>
+    <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/> -->
     <img width='80' height='80' src="https://raw.githubusercontent.com/mcloir/Font-Sizes-for-Latex/dc816c8f4357161a1fe6abf7849907630126cf47/latex-rea2.svg" />    
   </div>
 
